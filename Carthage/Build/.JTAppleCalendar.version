@@ -1,0 +1,23 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+    {
+      "name" : "JTAppleCalendar",
+      "hash" : "799fb269c4b4fafb61426af02533db683a78a8d33ef755824f258afcbedcc3c1",
+      "swiftToolchainVersion" : "5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+    }
+  ],
+  "commitish" : "7.1.8",
+  "iOS" : [
+    {
+      "name" : "JTAppleCalendar",
+      "hash" : "cdbed41197dec150fb09845b9c8b41e71be03488aa83750d0a4a42dc1a4e965c",
+      "swiftToolchainVersion" : "5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+    }
+  ]
+}
